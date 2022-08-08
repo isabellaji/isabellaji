@@ -22,4 +22,5 @@ I just love learning new tech stacks📚 and using them to build cool things! �
 ## ✨ More About Me ✨
 🪐 <a href="https://www.flickr.com/photos/nasawebbtelescope/albums/with/72177720296737701">James Webb Space Telescope</a><br />
 🌆 Sunset<br />
+🌏 Traveling<br />
 ♟ Chess
