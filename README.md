@@ -1,6 +1,6 @@
 ## Hi there,<img src="https://raw.githubusercontent.com/isabellaji/isabellaji/main/wave.gif" width="30"> I'm Heeyoung Ji！
 I'm a Frontend Developer living in beautiful Seoul, South Korea.
-I just love learning new tech stacks📚 and using them to build cool things!
+I just love learning new tech stacks📚 and using them to build cool things! 🛠️
 
 [![Gmail Badge](https://img.shields.io/badge/-heeyoungji519@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heeyoungji519@gmail.com)](mailto:heeyoungji519@gmail.com)
 
